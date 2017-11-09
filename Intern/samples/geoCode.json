@@ -1,0 +1,99 @@
+[{
+        "Id": 1,
+        "Name": "Byford",
+        "City": "BYFORD",
+        "State": "WA",
+        "Latitude": -32.21893970000000,
+        "Longitude": 116.0084381103516,
+        "Sales": 100.7500
+    },
+        {
+            "Id": 2,
+            "Name": "Canning Vale",
+            "City": "CANNING VALE",
+            "State": "WA",
+            "Latitude": -32.08707040000000,
+            "Longitude": 115.9178543090820,
+            "Sales": 31.9500
+        },
+        {
+            "Id": 3,
+            "Name": "Clarkson",
+            "City": "CLARKSON",
+            "State": "WA",
+            "Latitude": -31.69065280000000,
+            "Longitude": 115.7151412963867,
+            "Sales": 51.8500
+        },
+        {
+            "Id": 4,
+            "Name": "Geraldton",
+            "City": "GERALDTON",
+            "State": "WA",
+            "Latitude": -28.77596900000000,
+            "Longitude": 114.6146316528320,
+            "Sales": 161.7500
+        },{
+            "Id": 5,
+            "Name": "Kingsway",
+            "City": "MADELEY",
+            "State": "WA",
+            "Latitude": -31.81940000000000,
+            "Longitude": 115.8217010498047,
+            "Sales": 49.8500
+        },{
+            "Id": 6,
+            "Name": "Vincent",
+            "City": "VINCENT",
+            "State": "QLD",
+            "Latitude": -19.28713220000000,
+            "Longitude": 146.7609710693359,
+            "Sales": 42996.9505
+        },
+        {
+            "Id": 7,
+            "Name": "Bargara",
+            "City": "BARGARA",
+            "State": "QLD",
+            "Latitude": -24.81812430000000,
+            "Longitude": 152.4563446044922,
+            "Sales": 9.9500
+        },
+        {
+            "Id": 8,
+            "Name": "Vincent",
+            "City": "VINCENT",
+            "State": "QLD",
+            "Latitude": -19.28713220000000,
+            "Longitude": 146.7609710693359,
+            "Sales": 42996.9505
+        },
+        {
+            "Id": 9,
+            "Name": "Boonah",
+            "City": "BOONAH",
+            "State": "QLD",
+            "Latitude": -27.99893470000000,
+            "Longitude":152.6822052001953,
+            "Sales": 3413.1500
+        },
+        {
+            "Id": 10,
+            "Name": "Boondall",
+            "City": "BOONDALL",
+            "State": "QLD",
+            "Latitude": -27.36360560000000,
+            "Longitude": 153.0616912841797,
+            "Sales": 33245.1504
+        },
+        {
+            "Id": 11,
+            "Name": "Bowen",
+            "City": "BOWEN",
+            "State": "QLD",
+            "Latitude": -20.00723270000000,
+            "Longitude": 148.2431488037109,
+            "Sales": 6320.6501
+        }
+
+    ]

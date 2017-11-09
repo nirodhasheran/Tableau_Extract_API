@@ -1,0 +1,11 @@
+2017-11-09 10:14:40.508 (3288): pid=13804----------------------------------
+2017-11-09 10:14:40.518 (3288): Creating a connection to tde server
+2017-11-09 10:14:40.518 (3288): Starting new server instance
+2017-11-09 10:14:40.518 (3288): DataEngine log file will be written to "DataExtract.log"
+2017-11-09 10:14:40.518 (3288): Launching tdeserver at "C:\\Users\\pcN\\Tableau-SDK-C-Java-64Bit-10-3-4\\install-dir\\bin\\tdeserver64.exe"
+2017-11-09 10:14:40.753 (3288): Opening connection to tab.pipe://./pipe/{17BD1291-F3C6-425B-97B9-FCE6C5B3FB54}
+2017-11-09 10:14:40.753 (3288): Creating new connection: tab.pipe://./pipe/{17BD1291-F3C6-425B-97B9-FCE6C5B3FB54}
+2017-11-09 10:14:40.753 (3288): Creating new database at "C:\\Users\\pcN\\Intern\\samples\\Store_Locations.tde"
+2017-11-09 10:14:43.133 (3288): Connecting to existing database at "C:\\Users\\pcN\\Intern\\samples\\Store_Locations.tde"
+2017-11-09 10:14:43.638 (3288): Dropping connection
+2017-11-09 10:14:43.638 (3288): Closing server at: tab.pipe://./pipe/{17BD1291-F3C6-425B-97B9-FCE6C5B3FB54}
